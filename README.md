@@ -10,6 +10,6 @@ Hi! 😄 I'm
 }
 ```
 My Favorite are 
-1. Big Mouth
-2. Extraordinary Attorney Woo
-3. Welcome to Waikiki
+1. Big Mouth 😂
+2. Extraordinary Attorney Woo 🐱
+3. Welcome to Waikiki 😂
